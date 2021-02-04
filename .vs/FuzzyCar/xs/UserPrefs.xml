@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{61E468A8-C417-F593-C9FC-9BCC37B06114}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DataSampler.cs">
+    <Files>
+      <File FileName="Assets/GameManager.cs" Line="12" Column="45" />
+      <File FileName="Assets/Lidar.cs" />
+      <File FileName="Assets/LidarPrintout.cs" />
+      <File FileName="Assets/Scripts/CarController.cs" />
+      <File FileName="Assets/PDController.cs" />
+      <File FileName="Assets/SetValues.cs" />
+      <File FileName="Assets/FuzzyController.cs" />
+      <File FileName="Assets/FuzzyAccelerator.cs" />
+      <File FileName="Assets/FLS/InferenceEngines/FuzzyEngine.cs" Line="98" Column="1" />
+      <File FileName="Assets/FLS/MembershipFunctions/BaseMembershipFunction.cs" />
+      <File FileName="Assets/FLS/MembershipFunctions/BellMembershipFunction.cs" />
+      <File FileName="Assets/FLS/MembershipFunctions/CompositeMembershipFunction.cs" Line="1" Column="1" />
+      <File FileName="Assets/SpeedRandomizer.cs" />
+      <File FileName="Assets/FLS/MembershipFunctions/TrapezoidMembershipFunction.cs" />
+      <File FileName="Assets/Ball.cs" />
+      <File FileName="Assets/Background.cs" />
+      <File FileName="Assets/Driver.cs" Line="44" Column="44" />
+      <File FileName="Assets/FuzzySmartCarController.cs" />
+      <File FileName="Assets/DataFetchUtil.cs" />
+      <File FileName="Assets/TextUpdate.cs" />
+      <File FileName="Assets/WaitUI.cs" />
+      <File FileName="Assets/ReactionTest.cs" />
+      <File FileName="Assets/SpeedGenerator.cs" />
+      <File FileName="Assets/ChartPoint.cs" Line="41" Column="6" />
+      <File FileName="Assets/ChartPlot.cs" Line="47" Column="43" />
+      <File FileName="Assets/DistributeLines.cs" Line="14" Column="126" />
+      <File FileName="Assets/DataSampler.cs" Line="13" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FuzzyCar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FLS" expanded="True">
+                <Node name="InferenceEngines" expanded="True" />
+                <Node name="MembershipFunctions" expanded="True" />
+              </Node>
+              <Node name="DataSampler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="057f86b7-2004-40b2-9a9a-883b4334f5bc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
